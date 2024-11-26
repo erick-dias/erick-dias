@@ -14,5 +14,6 @@
 <a href="https://www.instagram.com/_erick.dias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&log
 <a href = "erickdias0411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo
 <a href="https://www.linkedin.com/in/erick-dias34242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+                                                                         
+![Snake animation](https://github.com/erick-dias/erick-dias/blob/output/github-contribution-grid-snake.svg)
 </div>
