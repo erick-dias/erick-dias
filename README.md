@@ -17,6 +17,7 @@
 <img  align="center" atl="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img  align="center" atl="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   
-![Snake animation](https://github.com/erick-dias/erick-dias/blob/output/github-contribution-grid-snake.svg)
+
 </div>                                                                        
 
+![Snake animation](https://github.com/erick-dias/erick-dias/blob/output/github-contribution-grid-snake.svg)
