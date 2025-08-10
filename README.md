@@ -11,15 +11,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=compact)
 
 ## Tecnologias
-<div style="display:inline_block"><br/>
-<img  align="center" atl="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img  align="center" atl="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
-<img  align="center" atl="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img  align="center" atl="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img  align="center" atl="React" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"/>
-
-  
-
-</div>                                                                        
+<div style="display: inline-block">
+  <img align="center" alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50"/>
+  <img align="center" alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/>
+  <img align="center" alt="CSS" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50"/>
+  <img align="center" alt="Java" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="50" height="50"/>
+  <img align="center" alt="React" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="50" height="50"/>
+</div>                                                                 
 
 
