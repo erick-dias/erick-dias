@@ -11,6 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=compact)
 
 ## Tecnologias
+# HTML, JAVASCRIPT, CSS, REACT, JAVA
 
   
 <div style="display: inline-block">
