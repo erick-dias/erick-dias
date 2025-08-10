@@ -13,9 +13,11 @@
 ## Tecnologias
 <div style="display:inline_block"><br/>
 <img  align="center" atl="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img  align="center" atl="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img  align="center" atl="JavaScript" src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)"/>
 <img  align="center" atl="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img  align="center" atl="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img  align="center" atl="React" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"](https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000)/>
+
   
 
 </div>                                                                        
