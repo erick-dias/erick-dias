@@ -11,12 +11,50 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=compact)
 
 ## Tecnologias
-<div style="display: inline-block">
-  <img align="center" alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50"/>
-  <img align="center" alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/>
-  <img align="center" alt="CSS" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50"/>
-  <img align="center" alt="Java" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="50" height="50"/>
-  <img align="center" alt="React" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="50" height="50"/>
-</div>                                                                 
+<style>
+  .tech-icons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+  }
+  .tech-icons figure {
+    text-align: center;
+    margin: 0;
+  }
+  .tech-icons img {
+    width: 50px;
+    height: 50px;
+  }
+  .tech-icons figcaption {
+    font-size: 12px;
+    color: #333;
+    margin-top: 4px;
+  }
+</style>
+
+<div class="tech-icons">
+  <figure>
+    <img alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+    <figcaption>HTML5</figcaption>
+  </figure>
+  <figure>
+    <img alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+    <figcaption>JavaScript</figcaption>
+  </figure>
+  <figure>
+    <img alt="CSS" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+    <figcaption>CSS</figcaption>
+  </figure>
+  <figure>
+    <img alt="React" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"/>
+    <figcaption>React</figcaption>
+  </figure>
+  <figure>
+    <img alt="Java" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000"/>
+    <figcaption>Java</figcaption>
+  </figure>
+</div>
+                                                      
 
 
