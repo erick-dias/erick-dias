@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-dias&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=compact&theme=radical)
 
 ## Tecnologias
 ###### HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT | JAVA
