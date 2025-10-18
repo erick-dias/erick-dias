@@ -29,7 +29,7 @@
 </div>
 
 
-<h3 align="left">TECHNOLOGIES</h3>
+<h3 align="left">TECNOLOGIAS</h3>
 
 ###
 
