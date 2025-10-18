@@ -19,12 +19,12 @@
 <br clear="both">
 
 <div align="left" style="display: flex; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=erick-dias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erick-dias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph" />
 
   <br>
     <br>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-dias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" style="margin-top: 15px;" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-dias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph" style="margin-top: 15px;" />
       
 </div>
 
@@ -60,7 +60,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=erick-dias&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=erick-dias&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
