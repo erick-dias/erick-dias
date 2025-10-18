@@ -1,28 +1,68 @@
+<h2 align="left">Olá! Eu sou Erick Dias 👋</h2>
 
+###
 
-### Olá! Eu sou Erick Dias 👋
+<div align="left">
+  <a href="https://www.linkedin.com/in/erick-dias041/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_erick.dias/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDlgwwPwDxmbFlPMhXqpwgcwjbHdFdZhcgMMBfvTFHVlGSgLLTWBfLSksnrCNtwsfgTsq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-dias041/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_erick.dias/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDlgwwPwDxmbFlPMhXqpwgcwjbHdFdZhcgMMBfvTFHVlGSgLLTWBfLSksnrCNtwsfgTsq)
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-dias&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=erick-dias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-dias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=compact&theme=radical)
+###
 
-## Tecnologias
-###### HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT | JAVA
+<h3 align="left">TECHNOLOGIES</h3>
 
-  
-<div style="display: inline-block">
-  <img align="center" alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50"/>
-  <img align="center" alt="CSS" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50"/>
-    <img align="center" alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50"/>
-   <img align="center" alt="Typescript" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="50" height="50"/>
-   <img align="center" alt="React" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="50" height="50"/>
-  <img align="center" alt="Java" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="50" height="50"/>
+###
 
- 
-</div>                                    
+<h6 align="left">JAVASCRIPT | TYPESCRIPT | REACT | CSS | HTML | FIGMA | NEXT.JS | JAVA | POSTGREESQL</h6>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=erick-dias&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-dias/erick-dias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-dias/erick-dias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erick-dias/erick-dias/output/pacman-contribution-graph.svg">
+</picture>
+
+###
