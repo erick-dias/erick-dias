@@ -64,6 +64,5 @@
 </div>
 
 
-![snake gif](https://github.com/erick-dias/blob/output/github-contribution-grid-snake.svg)
 
 ###
