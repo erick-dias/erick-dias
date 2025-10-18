@@ -64,6 +64,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/erick-dias/erick-dias/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/erick-dias/blob/output/github-contribution-grid-snake.svg)
 
 ###
