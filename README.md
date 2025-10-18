@@ -23,9 +23,10 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-dias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-dias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" style="margin-top: 15px;" />
+      
 </div>
-###
+
 
 <h3 align="left">TECHNOLOGIES</h3>
 
