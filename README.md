@@ -63,4 +63,7 @@
   <img src="https://streak-stats.demolab.com?user=erick-dias&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+
+<img src="https://raw.githubusercontent.com/erick-dias/erick-dias/output/snake.svg" alt="Snake animation" />
+
 ###
