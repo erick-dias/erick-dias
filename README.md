@@ -47,9 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dias&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=erick-dias&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
