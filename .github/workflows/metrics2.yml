@@ -12,8 +12,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # O GITHUB_TOKEN tem permissão automática de escrita na branch
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: erick-dias
           filename: metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
