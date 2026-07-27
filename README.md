@@ -50,12 +50,5 @@
   <img src="metrics.svg" alt="GitHub Metrics" />
 </div>
 
----
 
-### 👾 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erick-dias/erick-dias/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erick-dias/erick-dias/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/erick-dias/erick-dias/output/pacman-contribution-graph.svg">
-</picture>
