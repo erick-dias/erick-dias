@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td align="center"><b>Back-End & Banco de Dados</b><br>
-        <img src="https://skillicons.dev/icons?i=java,nodejs,postgresql,mysql" />
+        <img src="https://skillicons.dev/icons?i=java,nodejs,postgresql,mysql,php" />
       </td>
       <td align="center"><b>Ferramentas</b><br>
         <img src="https://skillicons.dev/icons?i=figma,git,docker,vscode,trello" /><br>
