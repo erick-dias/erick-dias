@@ -46,7 +46,9 @@
   <img src="https://streak-stats.demolab.com?user=erick-dias&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
-
+<div align="center">
+  <img src="metrics.svg" alt="GitHub Metrics" />
+</div>
 
 
 
