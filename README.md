@@ -26,7 +26,7 @@
         <img src="https://skillicons.dev/icons?i=java,nodejs,postgresql,mysql,php" />
       </td>
       <td align="center"><b>Ferramentas</b><br>
-        <img src="https://skillicons.dev/icons?i=figma,git,docker,vscode" /><br>
+        <img src="https://skillicons.dev/icons?i=figma,git,docker,vscode,cloudflare" /><br>
         <sub>Scrum / Kanban / Trello</sub>
       </td>
     </tr>
